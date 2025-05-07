@@ -8,6 +8,10 @@
 Changes
 =======
 
+Version 0.1.0 (released 2025-05-07)
+
+- utility release
+
 Version 1.0.0.dev1 (released 2025-05-06)
 
 - add actions as registered entry points
