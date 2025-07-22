@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version v0.3.2 (released 2025-07-22)
+
+- mappings: fix user search mappings
+
 Version v0.3.1 (released 2025-07-14)
 
 - chores: replaced importlib_xyz with importlib
